@@ -7,11 +7,20 @@
     "validateUpsert": true
   },
   "properties": {
+    "propertyName86": {
+      "type": "string"
+    },
+    "propertyName23": {
+      "type": "string"
+    },
+    "propertyName7": {
+      "type": "string"
+    },
     "id": {
       "type": "number",
       "id": true,
       "required": true,
-      "index": true
+      "index": false
     }
   },
   "validations": [],

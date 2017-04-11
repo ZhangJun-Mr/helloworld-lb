@@ -40,5 +40,151 @@
     "public": false,
     "$promise": {},
     "$resolved": true
+  },
+  "SbuxNcAppAlarm": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcAppAlarmReceiver": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcApplication": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcAttachment": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcAppMsgType": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcBlacklist": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcEdmLog": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcEdmMessage": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcFilterConfig": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcMailLog": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcMailMessage": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcMenu": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcMessageType": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcRecipient": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcPushMessage": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcParameterConfig": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcPushLog": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcRequest": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcRole": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcScheduler": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSensitiveword": {
+    "dataSource": "db",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "SbuxNcSequence": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcRoleMenu": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSmsLog": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSmsMessage": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcTag": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSysLog": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSysAlarm": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcSysAlarmReceiver": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcTemplate": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcTemplateAttach": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcUserRole": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcTemplateTag": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcUser": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcVendorAlarm": {
+    "dataSource": "db",
+    "public": true
+  },
+  "SbuxNcVendor": {
+    "dataSource": "db",
+    "public": true
   }
 }
